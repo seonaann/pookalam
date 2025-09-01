@@ -32,18 +32,24 @@ python interactive_animated_pookalam.py
 ### Project Documentation
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](https://github.com/seonaann/pookalam/blob/main/Screenshot%202025-09-01%20212821.png)
+*The program starts and immediately prints a welcome message, along with a list of available commands.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+You can see the user (you) typing commands like color_outer red,yellow,orange and pattern_outer squares.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+The program successfully receives, processes, and responds to these commands in real-time (Outer colors changed to: ...).
+
+The Pookalam animation in the separate window (not shown in the screenshot) would change its appearance instantly with each command you entered, without ever having to be stopped and restarted.*
+
+![Screenshot2](https://github.com/seonaann/pookalam/blob/main/Screenshot%202025-09-01%20212722.png)
+*Changes the colour of outer circles*
+
+![Screenshot3](https://github.com/seonaann/pookalam/blob/main/Screenshot%202025-09-01%20212759.png)
+*Changes the shape of outercircles into squares
 
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/file/d/1y0GdQUU-h_Sam50iZZdwxw0lLrneXsxm/view?usp=sharing]
+*This video demonstrates a dynamic and interactive Pookalam generator that displays a multi-layered animation. The outer patterns and colors can be changed in real-time by typing simple commands into the terminal.*
 
 ---
 Made with ❤️ at TinkerHub VJCET's Code A Pookalam 
